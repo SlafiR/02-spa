@@ -9,6 +9,13 @@ body {
 }
 
 
+/*Mis estilos personalizados*/
+
+.img-logo {
+    width: 15rem;
+}
+
+
 /* Animaciones chidas de fade in*/
 
 .animated {
